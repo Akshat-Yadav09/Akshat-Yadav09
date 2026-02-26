@@ -7,23 +7,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 First-year Computer Engineering student at **Army Institute of Technology**
+ First-year Computer Engineering student at **Army Institute of Technology**
 
-🕶️ Active member of the campus **AR-VR / GDXR Club**
+ Active member of the campus **AR-VR / GDXR Club**
 
-🎮 Passionate about Indie Games, Game Development & Interactive Systems  
+ Passionate about Indie Games, Game Development & Interactive Systems  
 
-🧠 Speedcubing enthusiast, escape room strategist, and Geometry Dash grinder  
+ Speedcubing enthusiast, escape room strategist, and Geometry Dash grinder  
 
-💡 Exploring low-level programming, Unity systems, and interactive software design  
+ Exploring low-level programming, Unity systems, and interactive software design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -33,20 +33,20 @@
 
 ---
 
-### 🎮 Game & Creative Tools
+###  Game & Creative Tools
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 📊 3D Contribution Graph
+##  3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-## 🎯 Interactive Connect 4
+##  Interactive Connect 4
 
 Click below to drop a move 👇  
 
@@ -56,7 +56,7 @@ The board updates automatically using GitHub Actions.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Yadav09&show_icons=true&theme=tokyonight" />
@@ -66,5 +66,5 @@ The board updates automatically using GitHub Actions.
 ---
 
 <p align="center">
-  ⚡ Building systems. Designing experiences. Leveling up daily.
+   Building systems. Designing experiences. Leveling up daily.
 </p>

@@ -12,9 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Play Connect4
-        uses: Platane/snk@v3
+      - name: Play Connect 4
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: Akshat09Yadav
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          filename: connect4.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_connect4: yes
+          plugin_connect4_duration: 1

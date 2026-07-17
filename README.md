@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<h1 align="center">YO 👋, I'm Akshat</h1>
 <h3 align="center">Computer Engineering Student | AR/VR Enthusiast | Game Dev Explorer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## About Me
 
- First-year Computer Engineering student at **Army Institute of Technology**
+ Second year Computer Engineering student at **Army Institute of Technology**
 
  Active member of the campus **AR-VR / GDXR Club**
 

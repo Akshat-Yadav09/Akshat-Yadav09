@@ -1,5 +1,5 @@
-<h1 align="center">YO 👋, I'm Akshat</h1>
-<h3 align="center">Computer Engineering Student | AR/VR Enthusiast | Game Dev Explorer</h3>
+<h1 align="center"> 👋, I'm Akshat</h1>
+<h3 align="center">Computer Engineering Student | 2D Game Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akshat-Yadav09&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,13 +11,11 @@
 
  Second year Computer Engineering student at **Army Institute of Technology**
 
- Active member of the campus **AR-VR / GDXR Club**
-
  Passionate about Indie Games, Game Development & Interactive Systems  
 
  Speedcubing enthusiast, escape room strategist, and Geometry Dash grinder  
 
- Exploring low-level programming, Unity systems, and interactive software design  
+ Unity 2D
 
 ---
 
